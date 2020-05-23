@@ -39,8 +39,3 @@ To further evaluate the performance of your implementation, consider instances o
 Use VM argument Xmx5m in Eclipse to restrict the main memory size to 10 MB in Java Virtual Machine.
 
 
-## LA 1 Repository
-```
-https://github.com/himens72/Two-Pass-Multiway-Merge-Sort
-```
-
